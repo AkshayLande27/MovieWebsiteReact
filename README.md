@@ -1,4 +1,4 @@
-#Movie Website React#
+**Movie Website React**
 
 This repository contains a Movie Website built using React.js. It's a simple yet effective web application that allows users to browse through a collection of movies, view details about each movie, and search for specific titles.
 
